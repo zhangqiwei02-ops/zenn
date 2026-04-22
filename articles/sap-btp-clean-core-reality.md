@@ -5,6 +5,13 @@ type: "tech"
 topics: ["SAP","BTP","Clean Core","S/4HANA"]
 published: true
 ---
+---
+title: "Clean Core は理想論ではない｜S/4HANA と SAP BTP の責務分界を現実的に整理する"
+emoji: "🧩"
+type: "tech"
+topics: ["SAP","BTP","Clean Core","S/4HANA"]
+published: true
+---
 # Clean Core は理想論ではない：SAP BTP へ切り出す拡張と S/4HANA に残す責務をどう分けるか
 
 Clean Core という言葉は SAP の文脈で頻繁に出てきますが、実務ではしばしばスローガンのまま消費されます。
