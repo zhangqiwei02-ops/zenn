@@ -2,7 +2,7 @@
 title: "Kinesis Data Streams と Firehose の違いを整理する｜処理の自由度と配送の省力化で比較"
 emoji: "🚰"
 type: "tech"
-topics: ["AWS","Kinesis","設計","ストリーミング"]
+topics: ["AWS","Kinesis","Streaming","Architecture"]
 published: true
 ---
 # Kinesis Data Streams と Firehose の違いを整理する
