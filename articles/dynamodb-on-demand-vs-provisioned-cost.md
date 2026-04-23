@@ -2,7 +2,7 @@
 title: "DynamoDB の On-Demand と Provisioned の違いを整理する｜料金と運用負荷で選ぶ"
 emoji: "💸"
 type: "tech"
-topics: ["AWS","dynamodb","cost","architecture"]
+topics: ["AWS","DynamoDB","Cost","Architecture"]
 published: true
 ---
 # DynamoDB の On-Demand と Provisioned の違いを整理する
