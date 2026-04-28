@@ -1,15 +1,8 @@
 ---
-title: "Event Mesh の価値は解耦では終わらない｜SAP 業務イベントを共通言語にするための設計"
+title: "Event Mesh の価値は疎結合では終わらない｜SAP 業務イベントを共通言語にする設計"
 emoji: "📡"
 type: "tech"
-topics: ["SAP","Event Mesh","EDA","SAP BTP"]
-published: true
----
----
-title: "Event Mesh の価値は疎結合では終わらない｜SAP 業務イベントを共通言語にするための設計"
-emoji: "📡"
-type: "tech"
-topics: ["SAP","Event Mesh","EDA","SAP BTP"]
+topics: ["SAP","BTP","EventMesh","EDA"]
 published: true
 ---
 # Event Mesh の価値は疎結合では終わらない：SAP 業務イベントを企業全体の共通言語に変える設計
@@ -22,7 +15,7 @@ Event Mesh を紹介する記事はよくありますが、多くは「疎結合
 
 ## 先に結論
 
-先に結論を言うと、Event Mesh の価値は「システムをゆるくつなぐこと」だけではありません。
+Event Mesh の価値は「システムをゆるくつなぐこと」だけではありません。
 
 本当に価値が出るのは、次の 3 つがそろったときです。
 
@@ -104,7 +97,7 @@ Event Mesh の説明で見落とされやすいのが、冪等性と順序です
 
 ## Event Mesh と API をどう使い分けるか
 
-Event Mesh があるから API が不要になるわけではありませ���。ここを誤解すると構成が崩れます。
+Event Mesh があるから API が不要になるわけではありません。ここを誤解すると構成が崩れます。
 
 ざっくり言えば、次のように分けると安定します。
 
